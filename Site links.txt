@@ -1,0 +1,4 @@
+US Justice API site - https://www.justice.gov/developer#s1
+
+Personal pop - https://data.ojp.usdoj.gov/Victims/NCVS-Select-Personal-Population/r4j4-fdwx/about_data
+Personal victim - https://data.ojp.usdoj.gov/Victims/NCVS-Select-Personal-Victimization/gcuy-rt5g/about_data
